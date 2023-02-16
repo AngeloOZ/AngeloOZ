@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AngeloOZ
 - 👀 I’m interested in working remotely
-- 🌱 I’m currently learning typescript, react, laravel.
+- 🌱 I’m working in PerseoSoft
 
 <!---
 AngeloOZ/AngeloOZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
